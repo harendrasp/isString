@@ -1,0 +1,19 @@
+{
+  "name": "@harendrasp/mypackage",
+  "version": "1.0.0",
+  "description": "know if your data is of type string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harendrasp/isString.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harendrasp/isString/issues"
+  },
+  "homepage": "https://github.com/harendrasp/isString#readme"
+}

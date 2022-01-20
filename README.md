@@ -1,3 +1,3 @@
 # isString
 
-Find if a string is string.
+Find if a string is string.git init
